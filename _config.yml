@@ -17,3 +17,25 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title?"
+          placeholder: "Write your title"
+          type: "text
+      - name: "published"
+        field:
+          element: "select"
+          label: "Are you ready to publish?"
+          placeholder: "publish?"
+          options:
+            - name: "true"
+              value: "true"
+            - name: "false"
+              value: "false"
+      - name: "description
+        field:
+          element: "text"
+          label: "abstract
+          placeholder: "Write your abstract
+          type: "text"
