@@ -22,7 +22,7 @@ prose:
           element: "text"
           label: "title?"
           placeholder: "Write your title"
-          type: "text
+          type: "text"
       - name: "published"
         field:
           element: "select"
