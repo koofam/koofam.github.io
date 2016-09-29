@@ -33,9 +33,9 @@ prose:
               value: "true"
             - name: "false"
               value: "false"
-      - name: "description
+      - name: "description"
         field:
           element: "text"
-          label: "abstract
-          placeholder: "Write your abstract
+          label: "abstract"
+          placeholder: "Write your abstract"
           type: "text"
