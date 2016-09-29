@@ -33,7 +33,3 @@ prose:
           label: "abstract"
           placeholder: "Write your abstract"
           type: "text"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title" 
